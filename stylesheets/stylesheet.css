@@ -173,9 +173,10 @@ code, pre {
 }
 
 code {
-  background-color: #f2f2f2;
+  background-color: #666666;
   border: solid 1px #ddd;
   padding: 0 3px;
+  color: white;
 }
 
 pre {
